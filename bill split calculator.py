@@ -2,7 +2,7 @@
 print("Welcome to the bill-split calculator!")
 
 bill1 = float(input("What was the total bill? "))
-
+#You can put any percentage you want, these are just propositions
 percent = float(input("What percentage tip would you like to give? 10, 12 or 15? "))
 
 people1 = float(input("How many people to split the bill? "))
